@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "SEC488 Threat MODEL",
+    "owner": "ME",
+    "description": "Flash application view files browser"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Also Me"
+  }
+}
